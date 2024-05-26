@@ -1,0 +1,6 @@
+Start 
+input the width (W)
+input the Lenght (L)
+A <- W * L
+Print A
+END
