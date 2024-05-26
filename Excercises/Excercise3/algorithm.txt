@@ -1,0 +1,9 @@
+Start
+Input A, B, C  
+If A > B
+    True Prin Largest(L) = A
+    False Print largest (L)= B 
+If L > C 
+    If is true print L
+    If not Print C
+End 
