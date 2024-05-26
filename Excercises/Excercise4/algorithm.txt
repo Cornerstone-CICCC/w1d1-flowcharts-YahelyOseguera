@@ -1,0 +1,6 @@
+Start
+Input(traingle side) A,B,C 
+Sum = A + B
+If Sum = C; triangle is possible 
+If Sum != C; triangle is not possible 
+End 
